@@ -1,0 +1,140 @@
+
+Html meaning
+	hypertext markup language 
+
+version control system
+	html5
+
+	delete
+	add
+	modify 
+
+
+html5
+
+how it works
+	tag
+	element
+	attribute
+
+
+project folder
+
+files
+
+editor
+
+html template
+	<!doctype html>
+	<html>
+	
+		head
+		body
+
+	</html>
+
+
+browser
+
+
+
+full name 
+address = present + permanent 
+edu status + job 
+full stack target
+
+
+seo
+	h1-h6
+	p
+	img - name, alt, tag,
+	meta
+
+
+speed opt
+	text
+	image - 
+	audio
+	video
+	google map
+
+
+name="value"
+
+src
+alt
+
+download 
+cdn
+
+
+measurement unit
+px
+
+w3c
+
+file path
+
+home about
+
+home - social media 
+
+<a>
+
+
+------------- css ----------------
+
+css meaning
+
+css syntax
+	selector{
+		properties:vales;
+	}
+
+css types
+	inline
+	internal
+	external - standard
+
+power of css
+
+css selector
+	tag/element
+	class
+	id
+
+power of css
+
+measurement unit
+	px pt em rem %
+
+color
+	name
+	hex #00000
+	rgb(00,00,00)
+	rgba(00,00,00, 1)
+
+
+list
+table
+form
+
+iframe - map - youtube
+
+video, audio
+
+margin - padding
+
+box model concept
+
+Display
+
+layout
+	float
+	flex
+	grid
+
+code commenting
+	html
+	css
+
